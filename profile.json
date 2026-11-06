@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "login": "shakhnoza69",
+  "seed": "#FFFFFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "wave",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "streak",
+    "stats"
+  ],
+  "hero": {
+    "greeting": "Hi,my name is",
+    "name": "Shahsy",
+    "subtitle": "Frontend developer, some kinda web-designer,\nMostly Windows/Android apps",
+    "typing": true,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "public",
+        "label": "Web designs"
+      },
+      {
+        "icon": "ad_group",
+        "label": "App Interfaces"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Creative interfaces"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:luau",
+            "label": "LUAU"
+          },
+          {
+            "icon": "ad_group",
+            "label": ".NET WPF"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:robloxstudio",
+            "label": "Studio"
+          },
+          {
+            "icon": "brand:tauri",
+            "label": "Tauri"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "Framework"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:youtube",
+        "url": "https://youtube.com/@Shaxploit"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/shaxx2345"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "exclamation",
+        "label": "For Business",
+        "url": "",
+        "style": "tonal"
+      },
+      {
+        "icon": "brand:discord",
+        "label": "Contact - @Shakhnozz",
+        "url": "https://discord.com/channels/@me",
+        "style": "filled"
+      }
+    ],
+    "card": false
+  }
+}
