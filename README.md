@@ -12,4 +12,6 @@
 
 <a href="https://github.com/shakhnoza69?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="For Business"></picture></a>&nbsp;&nbsp;<a href="https://discord.com/channels/@me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Contact - @Shakhnozz"></picture></a>
 
+<a href="https://metawka.github.io/expressive-profile/?from=shakhnoza69"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
