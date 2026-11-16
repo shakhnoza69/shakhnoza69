@@ -1,5 +1,5 @@
 {
- "key": "a31250d",
+ "key": "8edf37cd",
  "stars": 0,
  "contributions": 27,
  "repos": 1,
@@ -84,9 +84,13 @@
    {
     "c": 0,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -95,7 +99,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 3
  },
  "pins": [],
